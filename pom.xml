@@ -41,6 +41,12 @@
                  <version>2.2.0</version>
                  <inherited>false</inherited>
     </plugin>
+			        <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-resources-plugin</artifactId>
+            <version>3.9.8</version>
+        </plugin>
+
 		</plugins>
 	</build>
 
